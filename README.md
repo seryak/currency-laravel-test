@@ -11,7 +11,8 @@
 - Тесты для конвертации.
 
 ## Установка
-Запустите `php artisan migrate` для базовых валют.
+Запустите `composer install` .
+Запустите `php artisan migrate` .
 Запустите `php artisan db:seed` для базовых валют.
 Добавить `CURRENCY_API_KEY=fca_live_iFSig6VHFspTryxHI27PgqwodGeoa4lZht5qZwNE` в .env
 
